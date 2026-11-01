@@ -13,6 +13,7 @@
 index.html              главная страница со статьёй
 research/index.html     страница исследования
 css/site.css            общие стили
+images/school-ai-mark.svg фирменный знак и значок вкладки
 downloads/              PDF, DOCX и реестр источников
 content/                исходные версии Markdown
 .nojekyll               отключает обработку Jekyll
