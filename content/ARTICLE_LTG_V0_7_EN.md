@@ -1,6 +1,8 @@
 # From Personal Dialogue to School Development: A Pedagogical Architecture for a Local Intelligent Educational Ecosystem
 
-**Authors:** Dmitry Drozdov, Dmitry Khairuzov  
+**Authors:** Dmitrii Drozdov¹, Dmitrii Khairuzov²  
+**Affiliations:** ¹ Municipal Autonomous General Education Institution “Secondary School No. 14 named after Hero of Russia Dmitry Shektaev”, Kalya, Sverdlovsk Region, Russia. E-mail: <drozdov.ai.education@gmail.com>.  
+² Plekhanov Russian University of Economics, Moscow, Russia. E-mail: <Hayruzov.DE@rea.ru>.  
 **Version:** V0.7 · 9 November 2026  
 **Type of work:** Conceptual study based on a targeted analysis of research literature and technical solutions
 
