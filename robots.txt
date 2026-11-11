@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://drozdov-dmitry.github.io/school-ai-ecosystem/sitemap.xml
