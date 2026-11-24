@@ -4,7 +4,8 @@
 
 ## Страницы сайта
 
-- [Основная статья об агентной архитектуре](index.html)
+- [Каталог публикаций](index.html)
+- [Статья об агентной архитектуре](article-agent-architecture/index.html)
 - [Экономическая оценка локального ИИ-агента](economic-evaluation/index.html)
 - [Статья о педагогической архитектуре](article-ltg/index.html)
 - [Исследование и доказательная база](research/index.html)
